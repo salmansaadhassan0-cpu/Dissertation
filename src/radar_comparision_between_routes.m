@@ -4,15 +4,6 @@
 % Creates:
 % Figure 9  - Normalised radar comparison
 % Figure 10 - Horizontal delta / waterfall comparison
-%
-% Notes:
-% - White background
-% - Times New Roman
-% - No MATLAB titles inside figures
-% - Export-ready PNGs
-% - Model B is treated as the unconstrained upper bound baseline
-% - For demand satisfaction and low-spill performance, Model B = 100%
-
 
 clear; clc; close all;
 set(0,'DefaultFigureWindowStyle','normal');
